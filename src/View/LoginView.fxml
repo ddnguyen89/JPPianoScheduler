@@ -25,7 +25,7 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Label fx:id="headerLBL" alignment="CENTER" prefHeight="18.0" prefWidth="192.0" text="Scheduler" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.halignment="CENTER">
+            <Label fx:id="headerLBL" alignment="CENTER" prefHeight="18.0" prefWidth="192.0" text="Sssscheduler" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.halignment="CENTER">
                <font>
                   <Font size="24.0" />
                </font></Label>
@@ -39,7 +39,7 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <Label fx:id="usernameLBL" text="Username" GridPane.halignment="RIGHT">
+                  <Label fx:id="usernameLBL" text="Userndafdfame" GridPane.halignment="RIGHT">
                      <GridPane.margin>
                         <Insets right="10.0" />
                      </GridPane.margin></Label>

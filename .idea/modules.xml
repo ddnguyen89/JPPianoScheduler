@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SchedulingApplication.iml" filepath="$PROJECT_DIR$/SchedulingApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPPianoScheduler.iml" filepath="$PROJECT_DIR$/JPPianoScheduler.iml" />
     </modules>
   </component>
 </project>
